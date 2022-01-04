@@ -52,12 +52,16 @@ A finales del 2020 se dio la oportunidad de formar parte de la familia de **Tych
   <tr>
     <td>
       <h4>Dashboard - KIMEN</h4>
+	<a href="https://github.com/neftayc/kimen">
       <img src="https://raw.githubusercontent.com/neftayc/neftayc/master/kimen.jpeg">
-	  </td>
+	    </a>
+		</td>
     <td>
-      <h4>Dashboard UI</h4> 
+      <h4>Dashboard UI</h4>
+	    <a href="https://github.com/neftayc/Dashboard-ui">
       <img src="https://raw.githubusercontent.com/neftayc/neftayc/master/Dashboard.png">
-	  </td>
+	    </a>
+		    </td>
     <td>
       <h4>Portafolio</h4>
       <a href="https://www.neftaliccana.com"  >
@@ -73,9 +77,11 @@ A finales del 2020 se dio la oportunidad de formar parte de la familia de **Tych
       </a>
 	</td>
 	<td>
-    <h4>App Web - Manzanas Frescas</h4> 
+    	 <h4>App Web - Manzanas Frescas</h4> 
+	<a href="https://github.com/neftayc/App-web---Manzanas-Frescas">
           <img src="https://raw.githubusercontent.com/neftayc/neftayc/master/fresh-app.png"> 
-	</td> 
+	</a>
+   </td> 
   </tr> 
 </table>
 
