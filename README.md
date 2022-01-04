@@ -9,7 +9,7 @@ Soy Ingeniero de Sistemas, me especialice como desarrollador front-end en Vuejs 
 
 A mediados del 2018 culmine los estudios universitarios, durante dos años trabaje como analista programador en el área de Dirección Tecnológica e Informática de la Universidad Peruana Unión, donde contribui en el desarrollo del Sistema Academico **LAMB UPEU**.
 
-En el 2020 me aventure en el mundo de los frelance, incorporandome al equipo de trabajo de la startup norteamericana **EasyMgt** logrando construir un Sistema Modular que centralizado tada la información necesarua de las **Communities & HOA** para completar una transacción de bienes raíces, desde el estilo de vida hasta las reglas y regulaciones de dichas comunidades.
+En el 2020 me aventure en el mundo de los frelance, incorporandome al equipo de trabajo de la startup norteamericana **EasyMgt** logrando construir un Sistema Modular que centralizado tada la información necesaria de las **Communities & HOA** para completar una transacción de bienes raíces, desde el estilo de vida hasta las reglas y regulaciones de dichas comunidades.
 
 A finales del 2020 se dio la oportunidad de formar parte de la familia de **TycheTools** un emprendimiento español, donde construirmos herramientas (Aplicaciones web y Movil) de Operación y Gestión dirigidas a dos entornos: las salas técnicas de misión crítica, y la calidad del aire en el interior de los edificios.
 
