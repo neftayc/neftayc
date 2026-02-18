@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/neftayc/neftayc/master/kimen.jpeg" width="100%" height="auto" style="object-fit: cover; height: 200px;" alt="Neftali Ccana Banner" />
+  <img src="https://raw.githubusercontent.com/neftayc/neftayc/master/image.png" width="100%" height="auto" style="object-fit: cover; height: 200px;" alt="Neftali Ccana Banner" />
   </div>
 
 <h1 align="center">Hi 👋, I'm Neftalí Ccana</h1>
