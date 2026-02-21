@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Senior Software Engineer** delivering high-performance web architectures since 2019. I specialize in bridging complex backends (**Python/Django**) with modern, reactive frontends (**Vue/Nuxt**), and managing scalable deployments on **AWS**.
+I am a **Senior Software Engineer** delivering high-performance web architectures since 2018. I specialize in bridging complex backends (**Python/Django**) with modern, reactive frontends (**Vue/Nuxt**), and managing scalable deployments on **AWS**.
 
 **🚀 Career Highlights:**
 * **🇺🇸 PropTech (USA):** Developed centralized Real Estate management systems for **Easy-MGT**, optimizing information access for property managers.
