@@ -21,17 +21,10 @@
 
 ### 👨‍💻 About Me
 
-I am a **Senior Software Engineer** delivering high-performance web architectures since 2018. I specialize in bridging complex backends (**Python/Django**) with modern, reactive frontends (**Vue/Nuxt**), and managing scalable deployments on **AWS**.
-
-**🚀 Career Highlights:**
-* **🇺🇸 PropTech (USA):** Developed centralized Real Estate management systems for **Easy-MGT**, optimizing information access for property managers.
-* **🇪🇸 IoT & Data Centers (Spain):** Built real-time monitoring dashboards for **TycheTools**, visualizing critical metrics for data center quality.
-* **🎓 EdTech (Peru):** Architected the core Academic Portal for a major university, serving thousands of students and faculty.
-
-**⚡ Technical Evolution:**
-* **Current Stack:** Deep expertise in **Nuxt 3 & Vue.js**, integrated with **Django REST Framework**.
-* **Expansion:** Actively building with **React.js & Next.js** to deliver framework-agnostic solutions.
-* **AI-First Workflow:** I leverage **AI Agents** to accelerate coding velocity, while applying strict **human code review** to ensure security, efficiency, and maintainability.
+Full Stack Engineer with 6+ years of experience building multi-tenant SaaS products, business management platforms, IoT solutions, and
+web applications. Hands-on experience with React, Next.js, Vue, and Nuxt on the frontend; Python, Django, and FastAPI on the backend;
+and infrastructure and services on AWS and Supabase. AI-first approach to product development, with all AI-assisted code subject to
+human review and technical validation before production.
 
 *Open to remote challenges where code quality and scalability are non-negotiable.*
 
