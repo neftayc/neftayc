@@ -3,7 +3,7 @@
   </div>
 
 <h1 align="center">Hi 👋, I'm Neftalí Ccana</h1>
-<h3 align="center">Senior Full Stack Engineer | Vue, Nuxt & React | Python (Django) | AWS | AI-Augmented Developer 🤖</h3>
+<h3 align="center">Senior Full Stack Engineer | React, Vue & Nuxt | Python (FastAPI, Django) | AWS | AI-Augmented Developer 🤖</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/neftaliccana/" target="_blank">
